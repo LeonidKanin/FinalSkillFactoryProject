@@ -1,4 +1,4 @@
-# команды для запуска в PyCharm
+# команды для запуска
 # """pytest -v --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
 # """pytest -v -m 'negative' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
 # """pytest -v -m 'positive' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
