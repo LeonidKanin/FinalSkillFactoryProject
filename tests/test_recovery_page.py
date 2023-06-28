@@ -1,5 +1,5 @@
 # команда для запуска
-# pytest -v --driver Chrome --driver-path chromedriver.exe tests/tests_recovery_page.py
+# pytest -v --driver Chrome --driver-path chromedriver.exe tests/test_recovery_page.py
 
 import pytest
 
