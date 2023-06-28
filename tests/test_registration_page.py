@@ -1,9 +1,9 @@
 # команды для запуска
-# """pytest -v --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
-# """pytest -v -m 'negative' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
-# """pytest -v -m 'positive' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
-# """pytest -v -m 'func' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
-# """pytest -v -m 'script' --driver Chrome --driver-path chromedriver.exe tests/tests_registration_page.py"""
+# """pytest -v --driver Chrome --driver-path chromedriver.exe tests/test_registration_page.py"""
+# """pytest -v -m 'negative' --driver Chrome --driver-path chromedriver.exe tests/test_registration_page.py"""
+# """pytest -v -m 'positive' --driver Chrome --driver-path chromedriver.exe tests/test_registration_page.py"""
+# """pytest -v -m 'func' --driver Chrome --driver-path chromedriver.exe tests/test_registration_page.py"""
+# """pytest -v -m 'script' --driver Chrome --driver-path chromedriver.exe tests/test_registration_page.py"""
 
 import pytest
 
