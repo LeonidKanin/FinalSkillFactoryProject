@@ -1,4 +1,4 @@
-# команда для запуска в PyCharm
+# команда для запуска
 # pytest -v --driver Chrome --driver-path chromedriver.exe tests/tests_auth_page.py
 
 import pytest
