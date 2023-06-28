@@ -1,19 +1,3 @@
-# from pages.auth_page import AuthPage
-# from pages.recovery_page import RecoveryPage
-# from pages.registration_page import RegistrationPage
-
-
-# class PagesForParameterization:
-#     pages_for_parameterization = [AuthPage, RecoveryPage, RegistrationPage]
-#
-#     pages_for_parameterization_with_header = [(AuthPage, 'Авторизация'), (RecoveryPage, 'Восстановление пароля'),
-#                                               (RegistrationPage, 'Регистрация')]
-#
-#     pages_for_input_container_parameterization = [AuthPage, RecoveryPage]
-#
-#     pages_for_link_auth_policy_parametrization = [AuthPage, RegistrationPage]
-
-
 class DataInput:
     auto_select = [
         # данные для проверки автовыбора таба при активном табе Телефон
